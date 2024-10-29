@@ -2,9 +2,7 @@
 .wrapper {
 	width: 90%;
 	margin: auto;
-	background-color: red;
-	display: flex;
-	flex-direction: column;
+	background-color: skyblue;
 }
 video {
 	width: 100%;
