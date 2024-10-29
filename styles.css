@@ -1,2 +1,16 @@
-
 /* Your CSS Code here. */
+.wrapper {
+	width: 90%;
+	margin: auto;
+	background-color: red;
+	display: flex;
+	flex-direction: column;
+}
+video {
+	width: 100%;
+	margin: auto;
+}
+.speed {
+	padding: 20px;
+}
+
